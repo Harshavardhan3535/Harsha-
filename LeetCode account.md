@@ -4,7 +4,7 @@
 # 💻 LeetCode Practice – Harsha Vardhan
 
 Welcome to my LeetCode problem-solving repository!  
-This space tracks my journey of improving coding skills through consistent practice on [LeetCode](https://leetcode.com/your_username/).
+This space tracks my journey of improving coding skills through consistent practice on [LeetCode](https://leetcode.com/u/Harsha35).
 
 ---
 
